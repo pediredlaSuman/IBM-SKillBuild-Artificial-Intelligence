@@ -1,58 +1,50 @@
-# 💬 AI Chatbot Prototype – IBM SkillsBuild Virtual Internship  
+# 🤖 AI-Powered Chatbot – IBM SkillsBuild Virtual Internship
 
-This repository contains the work completed during my **Virtual Internship on AI Fundamentals, Generative AI, and Chatbot Development** using **IBM SkillsBuild** and **Watson Assistant tools**.  
-
-The project involves designing and deploying a **functional chatbot prototype** to simulate real-world conversations powered by AI logic. Additionally, I explored **AI use-cases in healthcare and education** to apply analytical thinking and propose practical solutions.  
-
----
-
-## 🚀 Project Highlights  
-- ✅ Completed **virtual internship** on AI fundamentals, generative AI, and chatbot development.  
-- 🤖 Designed & deployed a **functional chatbot prototype** using IBM Watson Assistant.  
-- 🔍 Researched **real-world AI applications** in domains like healthcare and education.  
-- 🧠 Applied **AI-powered logic** for conversational flows.  
-- 📊 Learned fundamentals of **AI use-cases, NLP, and chatbot frameworks**.  
+This project was completed as part of a **virtual internship** focused on **AI fundamentals, Generative AI, and Chatbot development** using **IBM SkillsBuild** and **Watson Assistant tools**.  
+The chatbot simulates **real-world interactions** by leveraging AI-powered logic and showcases the potential of conversational AI in **healthcare** and **education** domains.
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-- **IBM SkillsBuild Platform**  
-- **IBM Watson Assistant**  
-- **Generative AI Concepts**  
-- **Python** (for prototype logic and integrations)  
-- **Markdown & Documentation**  
+## 📌 Key Highlights
+- ✅ Completed **IBM SkillsBuild Virtual Internship** on AI & Generative AI.  
+- 🤝 Designed and deployed a **functional chatbot prototype** using **IBM Watson Assistant**.  
+- 🏥📚 Researched **real-world AI use cases** in **healthcare** and **education**, proposing AI-driven solutions.  
+- ⚡ Applied **analytical thinking** to map user problems with AI-based interventions.  
 
 ---
 
-## 🏗️ System Architecture  
-The chatbot follows a modular architecture:  
+## 🏗️ Project Architecture
 
-1. **User Input Layer** – Text/voice query from the user.  
-2. **Watson Assistant** – Intent recognition, entity extraction, and dialogue management.  
-3. **AI Logic Layer** – Custom logic for responses and contextual learning.  
-4. **Response Layer** – Returns meaningful, context-aware responses.  
-
-![System Architecture](assets/architecture.png)  
+![System Architecture](./architecture.png)
 
 ---
 
-## 💻 Chatbot Demonstration  
+## 💬 Chatbot Demonstration
 
-### 🔹 Chatbot Greeting  
-![Chatbot Demo 1](assets/chatbot-demo-1.png)  
+### Chatbot Greeting
+![Chatbot Demo 1](./chatbot-demo-1.png)
 
-### 🔹 AI-Powered Response Simulation  
-![Chatbot Demo 2](assets/chatbot-demo-2.png)  
+### User Query Interaction
+![Chatbot Demo 2](./chatbot-demo-2.png)
 
 ---
 
-## 📂 Repository Structure  
+## 🚀 Features
+- Interactive **chatbot prototype** simulating real conversations.  
+- Built on **IBM Watson Assistant** for robust NLP and intent recognition.  
+- Deployed a **functional prototype** accessible via web interface.  
+- Real-world **AI use-case research and analysis**.  
 
-```bash
-├── assets/                   # Images & diagrams
-│   ├── architecture.png
-│   ├── chatbot-demo-1.png
-│   └── chatbot-demo-2.png
-├── requirements.txt          # Python dependencies (if extending chatbot logic)
-├── .env.example              # Example environment config (for API keys if needed)
-└── README.md                 # Documentation
+---
+
+## 🛠️ Tech Stack
+- **IBM Watson Assistant** – Chatbot framework  
+- **IBM SkillsBuild** – Learning & project environment  
+- **Generative AI fundamentals** – Applied for conversational logic  
+- **Python (Flask)** – Optional backend integration  
+- **Markdown & GitHub** – Documentation & repository setup  
+
+---
+
+## 📂 Repository Structure
+
